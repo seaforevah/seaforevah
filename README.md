@@ -36,24 +36,6 @@ Language teacher (🇬🇧 English · 🇫🇷 French · 🇪🇸 Spanish as FL)
 
 <sub>✅ All projects follow 42's strict coding standard (Norminette) and are memory-leak free (Valgrind).</sub>
 
-## 📊 Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=radical&hide_border=true" alt="GitHub streak"/>
-</div>
-
-<!-- Tarjeta dinámica con tu progreso REAL en 42 (nivel, proyectos, evaluaciones) -->
-<div align="center">
-  <a href="https://github.com/JaeSeoKim/badge42">
-    <img src="https://badge.mediaplus.ma/greenbinary/TU-LOGIN-42?1590=1F4E79&UM6P=B3005E" alt="42 stats"/>
-  </a>
-</div>
-
 ## 🎯 Currently
 
 - 📚 Working through the **42 common core**
