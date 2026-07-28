@@ -54,7 +54,7 @@ My other stack — the human one:
 
 - 📚 Working through the **42 common core**
 - 🔐 Heading towards the **cybersecurity track**: pentesting & digital forensics
-- 🌍 Meanwhile, teaching languages in Málaga — [LinkedIn](https://www.linkedin.com/in/TU-USUARIO-LINKEDIN)
+- 🌍 Meanwhile, teaching languages in Málaga — [LinkedIn](https://www.linkedin.com/in/marcela-raquel-aros-fern%C3%A1ndez-219386325/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwFkHDcJEROOwxYkQkKw08A%3D%3D)
 
 ## 📫 Contact
 
