@@ -29,10 +29,10 @@ Language teacher (🇬🇧 English · 🇫🇷 French · 🇪🇸 Spanish as FL)
 
 | Project | Description | Key skills |
 |---|---|---|
-| 📚 [libft](https://github.com/TU-USUARIO/libft) | My own C standard library, built from scratch | Memory management, strings, linked lists |
-| 🖨️ [ft_printf](https://github.com/TU-USUARIO/ft_printf) | Reimplementation of printf | Variadic functions, parsing |
-| 📄 [get_next_line](https://github.com/TU-USUARIO/get_next_line) | Read files line by line, any buffer size | File descriptors, static variables, buffers |
-| 🔢 [push_swap](https://github.com/TU-USUARIO/push_swap) | Stack sorting with an **adaptive strategy** (simple / insertion-based / radix, chosen by disorder analysis) | Algorithms, complexity, benchmarking |
+| 📚 [libft](https://github.com/seaforevah/Lib_ft) | My own C standard library, built from scratch | Memory management, strings, linked lists |
+| 🖨️ [ft_printf](https://github.com/seaforevah/ft_printf) | Reimplementation of printf | Variadic functions, parsing |
+| 📄 [get_next_line](https://github.com/seaforevah/get_next_line) | Read files line by line, any buffer size | File descriptors, static variables, buffers |
+| 🔢 [push_swap](https://github.com/seaforevah/push_swap) | Stack sorting with an **adaptive strategy** (simple / insertion-based / radix, chosen by disorder analysis) | Algorithms, complexity, benchmarking |
 
 <sub>✅ All projects follow 42's strict coding standard (Norminette) and are memory-leak free (Valgrind).</sub>
 
