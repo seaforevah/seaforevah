@@ -43,10 +43,10 @@ My other stack — the human one:
 | Language | Level | |
 |---|---|---|
 | 🇪🇸 Spanish | Native | `██████████` |
-| 🇬🇧 English | Advanced (C1) — taught it for years | `████████░░` |
-| 🇫🇷 French | Advanced (C1) — BA in French Studies | `████████░░` |
+| 🇬🇧 English | Advanced (C1) | `████████░░` |
+| 🇫🇷 French | Advanced (C1) | `████████░░` |
 | 🇮🇹 Italian | Intermediate (B1) | `██████░░░░` |
-| 🇹🇷 Turkish | Basic-intermediate — souvenir from my semester at ODTÜ (Ankara) | `████░░░░░░` |
+| 🇹🇷 Turkish | Basic-intermediate | `████░░░░░░` |
  
 <sub>💬 Happy to pair-program or get code reviews in any of the first three!</sub>
 
