@@ -36,6 +36,20 @@ Language teacher (🇬🇧 English · 🇫🇷 French · 🇪🇸 Spanish as FL)
 
 <sub>✅ All projects follow 42's strict coding standard (Norminette) and are memory-leak free (Valgrind).</sub>
 
+## 🌍 Languages
+ 
+My other stack — the human one:
+ 
+| Language | Level | |
+|---|---|---|
+| 🇪🇸 Spanish | Native | `██████████` |
+| 🇬🇧 English | Advanced (C1) — taught it for years | `████████░░` |
+| 🇫🇷 French | Advanced (C1) — BA in French Studies | `████████░░` |
+| 🇮🇹 Italian | Intermediate (B1) | `██████░░░░` |
+| 🇹🇷 Turkish | Basic-intermediate — souvenir from my semester at ODTÜ (Ankara) | `████░░░░░░` |
+ 
+<sub>💬 Happy to pair-program or get code reviews in any of the first three!</sub>
+
 ## 🎯 Currently
 
 - 📚 Working through the **42 common core**
