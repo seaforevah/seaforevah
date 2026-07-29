@@ -56,6 +56,13 @@ My other stack — the human one:
 - 🔐 Heading towards the **cybersecurity track**: pentesting & digital forensics
 - 🌍 Meanwhile, teaching languages in Málaga — [LinkedIn](https://www.linkedin.com/in/marcela-raquel-aros-fern%C3%A1ndez-219386325/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwFkHDcJEROOwxYkQkKw08A%3D%3D)
 
+## ⚡ Beyond the keyboard
+ 
+- 🤿 **Scuba diving** — Open Water certified
+- 🧗 **Mountain sports** — rock climbing & via ferrata
+- ✈️ **Travelling** — always planning the next trip
+- ₿ **Crypto-trader** — exploring the world of cryptocurrencies
+
 ## 📫 Contact
 
 <div align="center">
